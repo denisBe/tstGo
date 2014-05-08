@@ -1,0 +1,4 @@
+tstGo
+=====
+
+tests pour go
